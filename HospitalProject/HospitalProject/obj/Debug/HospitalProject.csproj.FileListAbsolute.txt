@@ -1,0 +1,273 @@
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe.config
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\HospitalProject.pdb
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Data.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Data.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Properties.Resources.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CopyComplete
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.pdb
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.BuyMedicine.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Clients.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Clinics.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Doctors.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Employees.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Hospitalconverts.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.ItemsDetails.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Jobs.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Main.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.medical_examinations.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Nationality.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Nurses.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Operations.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Patients.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Pharmacy.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.ReceiveMessage.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SendMessage.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Specialization.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Vendors.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Tickets.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchDoctors.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchEmployees.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchNurses.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.selling_Items_vendors.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.PatientsSearchcs.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SellingItemstohospital.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SellMedicineToPatient.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.BuyingItemshospital.resources
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Permissions.resources
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Charts.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.CodeParser.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.DataAccess.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.DataAccess.v23.1.UI.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.PivotGrid.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Utils.v23.1.UI.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraCharts.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraCharts.v23.1.Extensions.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraGauges.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraPivotGrid.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraRichEdit.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Xpo.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraDiagram.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Diagram.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.DataVisualization.v23.1.Core.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Images.v23.1.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Charts.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.DataAccess.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.DataAccess.v23.1.UI.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.PivotGrid.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Utils.v23.1.UI.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraCharts.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraCharts.v23.1.Wizard.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraGauges.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraPivotGrid.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.Extensions.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraRichEdit.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraVerticalGrid.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Xpo.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraDiagram.v23.1.xml
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.Diagram.v23.1.Core.xml
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.TicketsReports.resources
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.RichEdit.v23.1.Export.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\DevExpress.XtraReports.v23.1.CodeCompletion.xml
+D:\.net project\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe.licenses
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\EnvDTE.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\.net project\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe.config
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.exe
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\HospitalProject.pdb
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\EnvDTE.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.AssemblyReference.cache
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.BuyingItemshospital.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.PatientsSearchcs.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.selling_Items_vendors.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.BuyMedicine.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Clients.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Clinics.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Doctors.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Employees.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Hospitalconverts.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.ItemsDetails.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Jobs.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Main.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.medical_examinations.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Nationality.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Nurses.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Operations.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Patients.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Pharmacy.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Permissions.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Properties.Resources.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.ReceiveMessage.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchDoctors.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchEmployees.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SearchNurses.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SellingItemstohospital.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SellMedicineToPatient.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.SendMessage.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Specialization.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Tickets.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.TicketsReports.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.Vendors.resources
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.GenerateResource.cache
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe.licenses
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CoreCompileInputs.cache
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.csproj.CopyComplete
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.exe
+C:\Users\Aseel\OneDrive\Desktop\HospitalProject\HospitalProject\obj\Debug\HospitalProject.pdb
